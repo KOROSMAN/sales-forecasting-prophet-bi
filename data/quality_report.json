@@ -1,0 +1,21 @@
+{
+  "n_lignes_initiales": 11422,
+  "doublons_detectes": 0,
+  "valeurs_manquantes_par_colonne": {
+    "order_id": 0,
+    "date": 0,
+    "product_id": 0,
+    "product_name": 0,
+    "category": 0,
+    "brand": 0,
+    "quantity": 0,
+    "unit_price_dh": 0,
+    "total_dh": 0,
+    "city": 0
+  },
+  "lignes_aberrantes_supprimees": 0,
+  "incoherences_total_corrigees": 0,
+  "n_lignes_finales": 11422,
+  "periode_debut": "2024-09-01",
+  "periode_fin": "2026-08-31"
+}

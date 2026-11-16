@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Audio-Visual",
+    "n_produits": 30,
+    "n_reels": 20,
+    "prix_moyen": 2668.4,
+    "prix_min": 19.1,
+    "prix_max": 8341.4
+  },
+  {
+    "category": "Computing & IT",
+    "n_produits": 90,
+    "n_reels": 40,
+    "prix_moyen": 1876.8,
+    "prix_min": 51.4,
+    "prix_max": 10733.1
+  },
+  {
+    "category": "Data Storage",
+    "n_produits": 32,
+    "n_reels": 0,
+    "prix_moyen": 1599.3,
+    "prix_min": 93.0,
+    "prix_max": 6454.4
+  },
+  {
+    "category": "Networking",
+    "n_produits": 45,
+    "n_reels": 20,
+    "prix_moyen": 310.3,
+    "prix_min": 0.8,
+    "prix_max": 1247.0
+  },
+  {
+    "category": "Printing",
+    "n_produits": 55,
+    "n_reels": 20,
+    "prix_moyen": 1264.0,
+    "prix_min": 133.0,
+    "prix_max": 5746.4
+  },
+  {
+    "category": "Security & Surveillance",
+    "n_produits": 110,
+    "n_reels": 40,
+    "prix_moyen": 741.6,
+    "prix_min": 144.4,
+    "prix_max": 7495.1
+  },
+  {
+    "category": "Telephony",
+    "n_produits": 35,
+    "n_reels": 20,
+    "prix_moyen": 4972.0,
+    "prix_min": 201.6,
+    "prix_max": 22942.5
+  }
+]

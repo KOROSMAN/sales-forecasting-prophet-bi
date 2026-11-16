@@ -1,0 +1,58 @@
+{
+  "Audio-Visual": {
+    "MAE_dh_hebdo": 16065.0,
+    "RMSE_dh_hebdo": 22662.0,
+    "MAPE_hebdo_pct": 414.3,
+    "MAPE_mensuel_pct": 47.6,
+    "n_semaines_train": 97,
+    "n_semaines_test": 8
+  },
+  "Computing & IT": {
+    "MAE_dh_hebdo": 34772.0,
+    "RMSE_dh_hebdo": 38388.0,
+    "MAPE_hebdo_pct": 66.9,
+    "MAPE_mensuel_pct": 26.6,
+    "n_semaines_train": 97,
+    "n_semaines_test": 8
+  },
+  "Data Storage": {
+    "MAE_dh_hebdo": 14557.0,
+    "RMSE_dh_hebdo": 16417.0,
+    "MAPE_hebdo_pct": 67.7,
+    "MAPE_mensuel_pct": 29.1,
+    "n_semaines_train": 97,
+    "n_semaines_test": 8
+  },
+  "Networking": {
+    "MAE_dh_hebdo": 4955.0,
+    "RMSE_dh_hebdo": 5893.0,
+    "MAPE_hebdo_pct": 120.0,
+    "MAPE_mensuel_pct": 38.4,
+    "n_semaines_train": 97,
+    "n_semaines_test": 8
+  },
+  "Printing": {
+    "MAE_dh_hebdo": 14132.0,
+    "RMSE_dh_hebdo": 16893.0,
+    "MAPE_hebdo_pct": 59.8,
+    "MAPE_mensuel_pct": 21.3,
+    "n_semaines_train": 97,
+    "n_semaines_test": 8
+  },
+  "Security & Surveillance": {
+    "MAE_dh_hebdo": 14334.0,
+    "RMSE_dh_hebdo": 17584.0,
+    "MAPE_hebdo_pct": 37.5,
+    "MAPE_mensuel_pct": 22.6,
+    "n_semaines_train": 97,
+    "n_semaines_test": 8
+  },
+  "Telephony": {
+    "MAE_dh_hebdo": 58031.0,
+    "RMSE_dh_hebdo": 65663.0,
+    "MAPE_hebdo_pct": 47.4,
+    "MAPE_mensuel_pct": 18.6,
+    "n_semaines_train": 97,
+    "n_semaines_test": 8
+  }
+}

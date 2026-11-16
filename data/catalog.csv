@@ -1,0 +1,398 @@
+product_id,name,category,brand,price_dh,is_real
+P0001,Asus TUF Gaming VG249Q3A Monitor 23.8in Full HD LCD Black,Computing & IT,Asus,1663.34,True
+P0002,Dell Briefcase 15in Laptop Bag,Computing & IT,Dell,141.75,True
+P0003,Eaton 5E Gen2 USB UPS 700VA 360W C14 Input 4 C13 Outputs Tower,Computing & IT,Eaton,596.74,True
+P0004,Eaton 5E Gen2 USB UPS 900VA 480W C14 Input 4 C13 Outputs Tower,Computing & IT,Eaton,1048.95,True
+P0005,Eaton Ellipse ECO 500 FR Line-Interactive UPS 500VA 300W 4 Outlets,Computing & IT,Eaton,1178.05,True
+P0006,Eaton Ellipse ECO EL1200USBFR Tower UPS 1200VA 750W,Computing & IT,Eaton,2646.14,True
+P0007,HP 324PV Series 3 Pro Monitor 23.8in Full HD Black,Computing & IT,HP,1685.4,True
+P0008,HP E27 G5 6N4E2AA Monitor 27in FHD,Computing & IT,HP,2677.64,True
+P0009,HP P204v Monitor 19.5in,Computing & IT,HP,1236.38,True
+P0010,HP P22 G5 64X86AA Monitor 21.5in FHD,Computing & IT,HP,1342.79,True
+P0011,HP P22v G5 Monitor 21.4in FHD Black,Computing & IT,HP,1561.88,True
+P0012,HP P27h G5 64W41AS Monitor 27in FHD,Computing & IT,HP,2504.25,True
+P0013,HP S3 Pro 324pf Monitor 23.8in,Computing & IT,HP,1811.25,True
+P0014,HP V27i G5 Monitor 27in FHD Black,Computing & IT,HP,1772.01,True
+P0015,Kaspersky Plus 2023 1-Device License,Computing & IT,Kaspersky,115.92,True
+P0016,Lenovo IdeaCentre 24IRH9 All-in-One PC 23.8in FHD i5-13420H 8GB 512GB SSD,Computing & IT,Lenovo,8453.63,True
+P0017,Lenovo IdeaCentre 24IRH9 All-in-One PC 23.8in FHD Touch i5-13420H 8GB DDR5 512GB SSD,Computing & IT,Lenovo,9341.73,True
+P0018,Lenovo IdeaCentre 27IRH9 All-in-One PC 27in FHD i5-13420H 8GB 512GB SSD,Computing & IT,Lenovo,9141.24,True
+P0019,Lenovo IdeaCentre All-in-One PC 23.8in FHD i7-13620H 8GB 512GB SSD,Computing & IT,Lenovo,9920.28,True
+P0020,Lenovo Neo 50a-27 G5 All-in-One PC 27in i7-13620H 8GB 512GB SSD FreeDOS,Computing & IT,Lenovo,10623.12,True
+P0021,Lenovo Neo 50t Gen 5 Tower Desktop i7-14700 8GB 512GB SSD Black,Computing & IT,Lenovo,9749.69,True
+P0022,Lenovo S24-4e Monitor 23.8in FHD LED Black,Computing & IT,Lenovo,1440.24,True
+P0023,Lenovo S27i-30 Monitor 27in FHD LED Black,Computing & IT,Lenovo,2031.75,True
+P0024,LENOVO ThinkCentre NEO 50A 24in Gen 5 AIO All-in-One Computer i5 16GB 512GB SSD FreeDOS,Computing & IT,Lenovo,8353.1,True
+P0025,Lenovo ThinkCentre neo 50a All-in-One 27in i7-13620H 16GB DDR5 512GB SSD Grey,Computing & IT,Lenovo,10733.14,True
+P0026,Lenovo ThinkCentre Neo 50a Gen 5 All-in-One PC 24in i7-13620H 8GB 512GB SSD,Computing & IT,Lenovo,10450.57,True
+P0027,Lenovo ThinkVision C22-20 Flat Monitor,Computing & IT,Lenovo,1338.89,True
+P0028,Logitech C270 Webcam,Computing & IT,Logitech,223.01,True
+P0029,Logitech Desktop MK120 Wired Keyboard and Mouse Combo AZERTY French Black,Computing & IT,Logitech,152.52,True
+P0030,Logitech G102 Gaming Mouse Wired USB-A 8000 DPI Black,Computing & IT,Logitech,223.01,True
+P0031,Logitech G102 Gaming Mouse Wired USB-A 8000 DPI White,Computing & IT,Logitech,223.1,True
+P0032,Logitech H111 Headset Wired Grey,Computing & IT,Logitech,130.1,True
+P0033,Logitech K120 Wired Keyboard USB AZERTY French Black,Computing & IT,Logitech,116.98,True
+P0034,Logitech Lift Vertical Mouse Right-Handed Wireless Bluetooth Optical 4000 DPI,Computing & IT,Logitech,840.0,True
+P0035,Logitech M110 Silent Mouse Ambidextrous USB-A 1000 DPI Grey,Computing & IT,Logitech,90.74,True
+P0036,Logitech M170 Wireless Mouse Ambidextrous RF 1000 DPI Grey,Computing & IT,Logitech,116.99,True
+P0037,Logitech M171 Wireless Mouse 1000 DPI Black,Computing & IT,Logitech,130.1,True
+P0038,Logitech M185 Wireless Mouse Ambidextrous RF 1000 DPI Black,Computing & IT,Logitech,156.33,True
+P0039,Logitech M240 Bluetooth Mouse Ambidextrous,Computing & IT,Logitech,211.58,True
+P0040,Logitech M90 Wired USB Mouse 1000 DPI,Computing & IT,Logitech,51.35,True
+P0041,Dahua DH-IPC-HDW1239T1-LED-S5 Camera 2MP Eyeball Fixed 2.8mm Lite Full-color,Security & Surveillance,Dahua,438.99,True
+P0042,Dahua DH-IPC-HDW1239T1-LED-S5 Camera 2MP Eyeball Fixed Lite Full-color,Security & Surveillance,Dahua,453.92,True
+P0043,Dahua DH-IPC-HFW1431T1P-ZS-S4 Camera 4MP Bullet Vari-focal Entry IR,Security & Surveillance,Dahua,1019.17,True
+P0044,Dahua DH-SD22204-GC-LB Camera 2MP PTZ Dome 4X Starlight HDCVI,Security & Surveillance,Dahua,1247.4,True
+P0045,Dahua DH-XVR1A08 DVR 8CH 1U Penta-brid Cooper 1080N/720P,Security & Surveillance,Dahua,531.3,True
+P0046,Dahua DH-XVR1B04-I DVR 4CH 1U 1HDD Penta-brid WizSense 1080N/720P,Security & Surveillance,Dahua,367.41,True
+P0047,Dahua DH-XVR1B04H-I DVR 4CH 1U 1HDD Penta-brid WizSense 5MP/1080P,Security & Surveillance,Dahua,496.77,True
+P0048,Dahua DH-XVR1B08-I DVR 8CH 1U 1HDD Penta-brid WizSense 1080N/720P,Security & Surveillance,Dahua,462.06,True
+P0049,Dahua DH-XVR1B16-I DVR 16CH 1U 1HDD Penta-brid WizSense 1080N/720P,Security & Surveillance,Dahua,697.7,True
+P0050,Dahua DH-XVR4108HS-I DVR 8CH 1U 1HDD Penta-brid WizSense 1080N/720P,Security & Surveillance,Dahua,551.14,True
+P0051,Dahua DH-XVR4116HS-I DVR 16CH 1U 1HDD Penta-brid WizSense 1080N/720P,Security & Surveillance,Dahua,832.28,True
+P0052,Dahua DHI-NVR4104-P-4KS2-L NVR 4CH 1U 1HDD 4K 4PoE Smart,Security & Surveillance,Dahua,749.38,True
+P0053,Dahua DHI-NVR608-128-4KS2 NVR 128CH 2U 8HDDs Ultra 4K,Security & Surveillance,Dahua,7495.12,True
+P0054,Dahua HAC-HDBW1200RP-Z S5 Camera 2MP Dome Vari-focal HDCVI IR,Security & Surveillance,Dahua,375.38,True
+P0055,Dahua HAC-HDW1200MP Camera 2MP Eyeball Fixed HDCVI IR,Security & Surveillance,Dahua,144.38,True
+P0056,Dahua HAC-HDW1209TLQP-LED Camera 2MP Eyeball Quick-install Full-color,Security & Surveillance,Dahua,202.13,True
+P0057,Dahua HAC-HDW1500TLMQP Camera 5MP Eyeball Quick-install Starlight IR,Security & Surveillance,Dahua,288.75,True
+P0058,Dahua HAC-HDW1509TLQP-LED Camera 5MP Eyeball Quick-install Full-color,Security & Surveillance,Dahua,352.11,True
+P0059,Dahua HAC-HDW2221MP Camera 2.1MP Eyeball Fixed 3.6mm WDR HDCVI IR Waterproof,Security & Surveillance,Dahua,196.35,True
+P0060,Dahua HAC-HFW1200CMP Camera 2MP Bullet Fixed HDCVI IR,Security & Surveillance,Dahua,196.34,True
+P0061,Dahua HAC-T2A51P-U-IL Camera 5MP Eyeball Fixed HDCVI IR,Security & Surveillance,Dahua,219.42,True
+P0062,Dahua HFW2431SP-S-S2 Camera 4MP Bullet Fixed 2.8mm WDR IR,Security & Surveillance,Dahua,665.28,True
+P0063,Dahua IPC-HFW1431S1P-S4 Camera 4MP Bullet Fixed Entry IR,Security & Surveillance,Dahua,423.64,True
+P0064,Dahua IPC-HFW1530S-S6 Camera 5MP Bullet Fixed Entry IR,Security & Surveillance,Dahua,577.99,True
+P0065,Dahua IPC-HFW3441EP-AS Camera 4MP Bullet Fixed 2.8mm Lite AI IR Audio,Security & Surveillance,Dahua,970.2,True
+P0066,Ezviz CS-H3C Camera 2MP Bullet Fixed 2.8mm IP Outdoor WiFi Color,Security & Surveillance,Ezviz,410.46,True
+P0067,Ezviz CS-H8C Camera 2MP PT Dome IP Outdoor WiFi,Security & Surveillance,Ezviz,663.22,True
+P0068,Ezviz H7c Camera Dual Lens IP Indoor Ceiling-Desk 2K WiFi,Security & Surveillance,Ezviz,583.44,True
+P0069,Hikvision DS-2CD1027G0-L Camera 2MP Bullet Fixed ColorVu,Security & Surveillance,Hikvision,541.8,True
+P0070,Hikvision DS-2CD1063G2-LIU Bullet Network Camera 6MP Fixed Smart Hybrid Light,Security & Surveillance,Hikvision,742.33,True
+P0071,Hikvision DS-2CD1083G2-LIU Bullet Network Camera 8MP Fixed Smart Hybrid Light,Security & Surveillance,Hikvision,912.57,True
+P0072,Hikvision DS-2CD1123G2-LIU Dome Network Camera 2MP Fixed Smart Hybrid Light,Security & Surveillance,Hikvision,478.94,True
+P0073,Hikvision DS-2CD1163G2-LIU Dome Network Camera 6MP Fixed Smart Hybrid Light,Security & Surveillance,Hikvision,754.72,True
+P0074,Hikvision DS-2CD1183G0-I Dome Network Camera 4K Fixed IR,Security & Surveillance,Hikvision,900.9,True
+P0075,Hikvision DS-2CD1183G2-LIU Dome Network Camera 8MP Fixed Smart Hybrid Light,Security & Surveillance,Hikvision,966.13,True
+P0076,Hikvision DS-2CD1367G2-L Turret Network Camera 6MP Fixed ColorVu MD 2.0,Security & Surveillance,Hikvision,783.65,True
+P0077,Hikvision DS-2CD1383G2-LIUF-SL Turret Network Camera 8MP Fixed Smart Hybrid Light Strobe Light,Security & Surveillance,Hikvision,1122.98,True
+P0078,Hikvision DS-2CD1623G1-IZS Bullet Network Camera 2MP Varifocal IR,Security & Surveillance,Hikvision,1111.03,True
+P0079,Hikvision DS-2CD1643G2-LIZU Bullet Network Camera 4MP Varifocal Dual Light MD 2.0,Security & Surveillance,Hikvision,1267.88,True
+P0080,Imou Ranger Dual Dome IP Camera 10MP Fixed Indoor Wifi,Security & Surveillance,Imou,564.51,True
+P0081,Brother HL-1212W A4 Laser Printer WiFi Mono,Printing,Brother,1795.5,True
+P0082,Canon BH-4 Print Head for G3411 G2411 Black,Printing,Canon,158.57,True
+P0083,Canon DR-F120 Document Scanner Flatbed Feeder,Printing,Canon,2583.09,True
+P0084,Canon GI-41M Ink Bottle Original Magenta,Printing,Canon,149.92,True
+P0085,Canon GI-490 Ink Bottle Black,Printing,Canon,146.28,True
+P0086,Canon i-SENSYS LBP243dw Laser Printer Mono,Printing,Canon,2630.39,True
+P0087,Canon i-SENSYS MF237w Laser MFP WiFi Mono,Printing,Canon,3796.91,True
+P0088,Canon i-SENSYS MF272dw Laser MFP 29ppm Duplex WiFi Mono,Printing,Canon,3863.39,True
+P0089,Canon i-SENSYS MF275dw A4 Laser MFP 29ppm WiFi Mono,Printing,Canon,4158.13,True
+P0090,Canon i-SENSYS MF465dw A4 Laser MFP 40ppm WiFi Mono,Printing,Canon,5746.42,True
+P0091,Canon MC-G02 Maintenance Cartridge,Printing,Canon,205.83,True
+P0092,Canon MF3010 Bundle Laser Printer 18ppm Mono,Printing,Canon,3533.37,True
+P0093,Canon MF463DW Laser MFP 3-in-1 Duplex WiFi Mono,Printing,Canon,4713.24,True
+P0094,Canon PG-445 Ink Cartridge Original Black,Printing,Canon,213.98,True
+P0095,Canon PIXMA G3410 Ink Tank MFP Wi-Fi Color,Printing,Canon,1597.4,True
+P0096,Canon PIXMA MG2541S Inkjet Printer Color,Printing,Canon,484.05,True
+P0097,Canon PIXMA TS3640 Inkjet Printer Color,Printing,Canon,580.77,True
+P0098,Epson 103 EcoTank Ink Bottle 65ml Cyan,Printing,Epson,134.09,True
+P0099,Epson 103 EcoTank Ink Bottle 65ml Magenta,Printing,Epson,133.02,True
+P0100,Epson 103 EcoTank Ink Bottle 65ml Yellow,Printing,Epson,133.55,True
+P0101,DSPPA DMA650U Digital Mixer Amplifier 650W USB Bluetooth,Audio-Visual,DSPPA,6334.21,True
+P0102,DSPPA DSP5012 Coaxial Ceiling Speaker 6.5in Frameless 35W,Audio-Visual,DSPPA,440.63,True
+P0103,DSPPA M2 Smart Home Wall Mini Music Amplifier Kit,Audio-Visual,DSPPA,775.65,True
+P0104,Epson CO-W01 Video Projector V11HA86040,Audio-Visual,Epson,4281.08,True
+P0105,Revolution Galaxy R43G TV 43in,Audio-Visual,Revolution Galaxy,2034.51,True
+P0106,Revolution Galaxy REF 1442-T Fixed TV Wall Mount 14in-42in,Audio-Visual,Revolution Galaxy,19.06,True
+P0107,Revolution Galaxy X196 Digital Satellite Receiver Set Top Box 4K,Audio-Visual,Revolution Galaxy,241.92,True
+P0108,Revolution Galaxy X197 Digital Satellite Receiver Set Top Box 4K,Audio-Visual,Revolution Galaxy,255.36,True
+P0109,DELL Pro Plus P2425H Computer Monitor 24in Full HD LCD Black,Audio-Visual,Dell,2283.89,True
+P0110,DSPPA AUX167II Coaxial Ceiling Speaker 4.5in Frameless 20W,Audio-Visual,DSPPA,626.06,True
+P0111,DSPPA AUX521 Ceiling Speaker,Audio-Visual,DSPPA,259.67,True
+P0112,DSPPA CM62 Condenser Microphone Plug and Play,Audio-Visual,DSPPA,708.75,True
+P0113,DSPPA DM858G Music Amplifier 4x20W WiFi Bluetooth,Audio-Visual,DSPPA,3945.06,True
+P0114,DSPPA DMA250U Digital Mixer Amplifier 250W USB Bluetooth,Audio-Visual,DSPPA,3848.04,True
+P0115,DSPPA DMA350U Digital Mixer Amplifier 350W USB Bluetooth,Audio-Visual,DSPPA,4725.05,True
+P0116,DSPPA DMA500U Digital Mixer Amplifier 500W USB Bluetooth,Audio-Visual,DSPPA,6069.28,True
+P0117,DSPPA DMA6250U 6-Zone Digital Mixer Amplifier 250W Remote Paging,Audio-Visual,DSPPA,5337.61,True
+P0118,DSPPA DMA6350U 6-Zone Digital Mixer Amplifier 350W Remote Paging,Audio-Visual,DSPPA,5941.04,True
+P0119,DSPPA DMA6500U 6-Zone Digital Mixer Amplifier 500W Remote Paging,Audio-Visual,DSPPA,7030.3,True
+P0120,DSPPA DMA6650U 6-Zone Digital Mixer Amplifier 650W Remote Paging,Audio-Visual,DSPPA,8341.35,True
+P0121,Grandstream Networks DP755 DECT Base Station Black,Telephony,Grandstream,605.9,True
+P0122,Apple iPad Pro M4 13in Tablet 5G 1TB Silver,Telephony,Apple,22942.5,True
+P0123,Apple iPhone 16 Pro Smartphone 128GB Natural Titanium,Telephony,Apple,12195.75,True
+P0124,Huawei S380-L4T1T Gateway 1GE WAN 4GE LAN,Telephony,Huawei,1976.63,True
+P0125,Huawei S380-S8T2T Gateway 2GE WAN 8GE LAN,Telephony,Huawei,3118.98,True
+P0126,Motorola Talkabout T82 16-Channel 446MHz Two-Way Radio Black-Orange,Telephony,Motorola,1338.75,True
+P0127,Motorola Talkabout T82 Extreme Twin Pack 16-Channel Two-Way Radio,Telephony,Motorola,1507.47,True
+P0128,Motorola XT185 Talkie Walkie 8-Channel 446MHz Two-Way Radio Black,Telephony,Motorola,1496.25,True
+P0129,Samsung A07 Android Smartphone 6.7in 4G 128GB 4GB RAM,Telephony,Samsung,1706.25,True
+P0130,Samsung Galaxy A05 Smartphone 128GB 4GB RAM,Telephony,Samsung,1378.13,True
+P0131,Samsung Galaxy A06 Smartphone 128GB 4GB RAM,Telephony,Samsung,1483.13,True
+P0132,Samsung Galaxy S24 FE Smartphone 256GB 8GB RAM,Telephony,Samsung,12678.75,True
+P0133,Samsung Galaxy S25 Ultra Smartphone 5G 256GB 8GB RAM Titanium Gray,Telephony,Samsung,16301.25,True
+P0134,Samsung Galaxy Tab A9 LTE Tablet 8.7in 128GB 8GB RAM Graphite,Telephony,Samsung,2660.18,True
+P0135,Samsung Galaxy Tab A9 Tablet 8.7in 64GB 4GB RAM Navy,Telephony,Samsung,2072.16,True
+P0136,Samsung Galaxy Tab A9 Plus Tablet 11in Wi-Fi 5 Android 13 128GB 8GB RAM,Telephony,Samsung,3654.0,True
+P0137,Samsung Galaxy Tab S9 Tablet 11in 5G Wi-Fi 6 Android 13 256GB 12GB RAM Beige,Telephony,Samsung,13837.95,True
+P0138,Samsung Galaxy Tab S9 Tablet 11in Wi-Fi 6 Snapdragon 256GB 12GB RAM Beige,Telephony,Samsung,6820.8,True
+P0139,Samsung Galaxy Tablet Case,Telephony,Samsung,201.6,True
+P0140,Samsung Galaxy Tablet S10 Plus 5G 256GB 12GB RAM Moonstone Blue,Telephony,Samsung,12316.5,True
+P0141,Dahua DHPFM922I6UNC Reel Cable UTP Cat6 305M,Networking,Dahua,656.19,True
+P0142,Grandstream G0720 PoE Injector 15.4W 48V 0.5A Passive Power,Networking,Grandstream,243.39,True
+P0143,Hikvision DS1LN6UUCCA Reel Cable Network Cat6 UTP 305M,Networking,Hikvision,831.72,True
+P0144,Huawei SFP Plus Transceiver 10G USR 850nm LC Fiber,Networking,Huawei,470.93,True
+P0145,Ruijie RG-EG105GW T Router Wireless All-in-One Wi-Fi 5 Business 1267Mbps,Networking,Ruijie,994.39,True
+P0146,TP-Link ARCHER AX12 AX1500 Wi-Fi 6 Router,Networking,TP-Link,442.56,True
+P0147,TP-Link ARCHER AX53 AX3000 Dual-Band Gigabit Wi-Fi 6 Router,Networking,TP-Link,694.56,True
+P0148,TP-Link ARCHER C24 AC750 Dual-Band Wi-Fi Router,Networking,TP-Link,275.66,True
+P0149,TP-Link ARCHER C6U AC1200 Wireless MU-MIMO Gigabit Router,Networking,TP-Link,467.91,True
+P0150,TP-LINK Archer TX10UB Nano AX900 Nano Wi-Fi 6 Bluetooth 5.3 USB Adapter,Networking,TP-Link,191.51,True
+P0151,TP-Link CAT6 UTP RJ45 Plug Crystal Head Closed,Networking,TP-Link,0.84,True
+P0152,TP-Link CAT6 UTP RJ45 Plug Crystal Head Open,Networking,TP-Link,1.3,True
+P0153,TP-Link CPE610 5GHz 300Mbps 23dBi Outdoor CPE,Networking,TP-Link,976.7,True
+P0154,TP-Link CPE710 5GHz AC 867Mbps 23dBi Outdoor CPE,Networking,TP-Link,1247.01,True
+P0155,TP-Link M7200 4G LTE Mobile Wi-Fi Router,Networking,TP-Link,593.07,True
+P0156,TP-Link TL-WN822N 300Mbps High Gain Wireless USB Adapter,Networking,TP-Link,157.36,True
+P0157,Ugreen 11205 CAT6 Flat Ethernet Cable 10M Blue,Networking,Ugreen,66.31,True
+P0158,Ugreen 11206 CAT6 Ethernet Cable 20M,Networking,Ugreen,121.12,True
+P0159,Ugreen 11207 CAT6 Ethernet Cable 15M Blue,Networking,Ugreen,88.99,True
+P0160,Ugreen 11260 CAT7 U-FTP STP Network Cable 1M Black,Networking,Ugreen,36.07,True
+P0161,Kaspersky 5834X Max Computing PoE,Computing & IT,Kaspersky,1155.24,False
+P0162,Lenovo 869S Compact Computing USB-C,Computing & IT,Lenovo,1727.4,False
+P0163,Eaton 5411S Compact Computing Wi-Fi,Computing & IT,Eaton,723.67,False
+P0164,Eaton 8766A Advanced Computing,Computing & IT,Eaton,596.06,False
+P0165,Kaspersky 1367 Plus Computing Duplex,Computing & IT,Kaspersky,1059.77,False
+P0166,Logitech 5493S Advanced Computing Duplex,Computing & IT,Logitech,746.28,False
+P0167,Asus 7613G Lite Computing Gigabit,Computing & IT,Asus,656.29,False
+P0168,Dell 8326 Business Computing PoE,Computing & IT,Dell,645.79,False
+P0169,Dell 7655X Lite Computing PoE,Computing & IT,Dell,464.39,False
+P0170,Dell 6973S Compact Computing Wi-Fi,Computing & IT,Dell,815.97,False
+P0171,HP 7729S Max Computing PoE,Computing & IT,HP,929.81,False
+P0172,Logitech 4987X Lite Computing USB-C,Computing & IT,Logitech,839.65,False
+P0173,Asus 8106 Advanced Computing,Computing & IT,Asus,682.86,False
+P0174,Kaspersky 491A Plus Computing,Computing & IT,Kaspersky,1387.16,False
+P0175,Lenovo 3661X Pro Computing USB-C,Computing & IT,Lenovo,432.29,False
+P0176,Kaspersky 9096A Business Computing PoE,Computing & IT,Kaspersky,1814.19,False
+P0177,Dell 8254A Home Computing Bluetooth,Computing & IT,Dell,559.91,False
+P0178,Eaton 1128X Plus Computing,Computing & IT,Eaton,950.41,False
+P0179,Kaspersky 306X Business Computing Gigabit,Computing & IT,Kaspersky,1039.47,False
+P0180,Dell 7674G Max Computing USB-C,Computing & IT,Dell,840.62,False
+P0181,Kaspersky 3257S Max Computing Duplex,Computing & IT,Kaspersky,1639.36,False
+P0182,Dell 5692 Max Computing Duplex,Computing & IT,Dell,1187.26,False
+P0183,Asus 5964A Advanced Computing Gigabit,Computing & IT,Asus,993.67,False
+P0184,Asus 763A Standard Computing,Computing & IT,Asus,870.94,False
+P0185,Eaton 3863 Home Computing Gigabit,Computing & IT,Eaton,982.48,False
+P0186,Dell 7654 Business Computing Wi-Fi,Computing & IT,Dell,976.07,False
+P0187,Logitech 798 Pro Computing PoE,Computing & IT,Logitech,956.41,False
+P0188,Kaspersky 6628A Standard Computing,Computing & IT,Kaspersky,1197.85,False
+P0189,Eaton 1807X Lite Computing USB-C,Computing & IT,Eaton,1857.79,False
+P0190,Lenovo 2427G Pro Computing Bluetooth,Computing & IT,Lenovo,1498.4,False
+P0191,Dell 7225A Lite Computing Bluetooth,Computing & IT,Dell,1313.46,False
+P0192,Asus 759S Compact Computing 4K,Computing & IT,Asus,1336.1,False
+P0193,Lenovo 9661A Max Computing 4K,Computing & IT,Lenovo,737.82,False
+P0194,Kaspersky 3076X Max Computing Gigabit,Computing & IT,Kaspersky,1811.09,False
+P0195,Asus 5634X Advanced Computing Gigabit,Computing & IT,Asus,1550.02,False
+P0196,HP 2149 Advanced Computing Full HD,Computing & IT,HP,503.52,False
+P0197,Eaton 7258 Standard Computing USB-C,Computing & IT,Eaton,1684.52,False
+P0198,Lenovo 6297 Max Computing PoE,Computing & IT,Lenovo,551.66,False
+P0199,Dell 5639S Pro Computing PoE,Computing & IT,Dell,358.24,False
+P0200,Asus 3061X Plus Computing Gigabit,Computing & IT,Asus,1884.35,False
+P0201,HP 1056 Compact Computing 4K,Computing & IT,HP,476.78,False
+P0202,Kaspersky 4835 Plus Computing,Computing & IT,Kaspersky,977.19,False
+P0203,Dell 3546G Plus Computing Bluetooth,Computing & IT,Dell,1634.96,False
+P0204,Lenovo 4993 Lite Computing USB-C,Computing & IT,Lenovo,974.81,False
+P0205,Dell 8096A Pro Computing USB-C,Computing & IT,Dell,2236.14,False
+P0206,Asus 1160G Standard Computing Bluetooth,Computing & IT,Asus,1232.52,False
+P0207,Asus 799 Standard Computing 4K,Computing & IT,Asus,879.18,False
+P0208,Kaspersky 8419X Pro Computing 4K,Computing & IT,Kaspersky,762.96,False
+P0209,Asus 1995X Compact Computing 4K,Computing & IT,Asus,1023.11,False
+P0210,HP 8196 Pro Computing PoE,Computing & IT,HP,528.45,False
+P0211,Ezviz 5696X Compact Security Duplex,Security & Surveillance,Ezviz,772.32,False
+P0212,Dahua 8092S Home Security Duplex,Security & Surveillance,Dahua,771.79,False
+P0213,Dahua 6755S Max Security,Security & Surveillance,Dahua,246.61,False
+P0214,Ezviz 3869G Compact Security 4K,Security & Surveillance,Ezviz,1748.16,False
+P0215,Hikvision 4877A Compact Security,Security & Surveillance,Hikvision,602.74,False
+P0216,Dahua 5415G Standard Security Duplex,Security & Surveillance,Dahua,321.62,False
+P0217,Imou 7066S Max Security 4K,Security & Surveillance,Imou,283.38,False
+P0218,Hikvision 8408 Business Security USB-C,Security & Surveillance,Hikvision,194.67,False
+P0219,Imou 1181X Standard Security,Security & Surveillance,Imou,448.05,False
+P0220,Hikvision 7504G Compact Security Gigabit,Security & Surveillance,Hikvision,406.18,False
+P0221,Dahua 7104A Business Security USB-C,Security & Surveillance,Dahua,389.25,False
+P0222,Dahua 9535G Compact Security Gigabit,Security & Surveillance,Dahua,287.77,False
+P0223,Ezviz 6717G Pro Security Full HD,Security & Surveillance,Ezviz,285.41,False
+P0224,Hikvision 5981X Standard Security Duplex,Security & Surveillance,Hikvision,549.12,False
+P0225,Hikvision 2949S Standard Security Full HD,Security & Surveillance,Hikvision,1285.41,False
+P0226,Hikvision 9640G Pro Security PoE,Security & Surveillance,Hikvision,264.12,False
+P0227,Imou 9187A Home Security Duplex,Security & Surveillance,Imou,812.76,False
+P0228,Ezviz 5152A Pro Security,Security & Surveillance,Ezviz,1026.6,False
+P0229,Ezviz 5636X Standard Security 4K,Security & Surveillance,Ezviz,402.7,False
+P0230,Imou 9045A Lite Security 4K,Security & Surveillance,Imou,360.93,False
+P0231,Ezviz 6848X Pro Security PoE,Security & Surveillance,Ezviz,313.38,False
+P0232,Ezviz 3367X Advanced Security Duplex,Security & Surveillance,Ezviz,1177.54,False
+P0233,Dahua 7687 Lite Security PoE,Security & Surveillance,Dahua,411.49,False
+P0234,Hikvision 3067A Standard Security Gigabit,Security & Surveillance,Hikvision,942.32,False
+P0235,Dahua 5173 Plus Security Full HD,Security & Surveillance,Dahua,402.65,False
+P0236,Hikvision 3866G Standard Security,Security & Surveillance,Hikvision,1102.34,False
+P0237,Ezviz 5068 Advanced Security 4K,Security & Surveillance,Ezviz,486.31,False
+P0238,Dahua 495G Compact Security 4K,Security & Surveillance,Dahua,3483.6,False
+P0239,Dahua 2602S Plus Security Gigabit,Security & Surveillance,Dahua,1665.54,False
+P0240,Dahua 4591 Standard Security 4K,Security & Surveillance,Dahua,1045.24,False
+P0241,Imou 3736 Standard Security Full HD,Security & Surveillance,Imou,1577.58,False
+P0242,Ezviz 1642G Advanced Security,Security & Surveillance,Ezviz,726.8,False
+P0243,Imou 7038X Advanced Security Wi-Fi,Security & Surveillance,Imou,596.17,False
+P0244,Hikvision 9680 Plus Security PoE,Security & Surveillance,Hikvision,304.68,False
+P0245,Hikvision 8802 Max Security,Security & Surveillance,Hikvision,223.03,False
+P0246,Imou 4286X Plus Security Bluetooth,Security & Surveillance,Imou,1047.69,False
+P0247,Hikvision 4368G Plus Security Duplex,Security & Surveillance,Hikvision,1287.16,False
+P0248,Imou 3172A Home Security Gigabit,Security & Surveillance,Imou,202.94,False
+P0249,Dahua 7676 Advanced Security,Security & Surveillance,Dahua,658.12,False
+P0250,Dahua 6290 Max Security 4K,Security & Surveillance,Dahua,585.85,False
+P0251,Dahua 8153A Pro Security USB-C,Security & Surveillance,Dahua,547.37,False
+P0252,Imou 9437S Standard Security PoE,Security & Surveillance,Imou,995.36,False
+P0253,Imou 639S Home Security Wi-Fi,Security & Surveillance,Imou,280.63,False
+P0254,Ezviz 5420 Compact Security,Security & Surveillance,Ezviz,380.68,False
+P0255,Dahua 3424X Max Security 4K,Security & Surveillance,Dahua,1469.54,False
+P0256,Dahua 9089X Lite Security PoE,Security & Surveillance,Dahua,224.63,False
+P0257,Ezviz 1115 Standard Security Duplex,Security & Surveillance,Ezviz,548.25,False
+P0258,Ezviz 7549 Pro Security USB-C,Security & Surveillance,Ezviz,1347.54,False
+P0259,Hikvision 1733 Pro Security,Security & Surveillance,Hikvision,242.06,False
+P0260,Imou 2100G Business Security Bluetooth,Security & Surveillance,Imou,418.41,False
+P0261,Ezviz 1560G Standard Security Bluetooth,Security & Surveillance,Ezviz,967.21,False
+P0262,Ezviz 7345 Pro Security USB-C,Security & Surveillance,Ezviz,909.78,False
+P0263,Hikvision 4880G Pro Security 4K,Security & Surveillance,Hikvision,698.81,False
+P0264,Imou 9866X Lite Security PoE,Security & Surveillance,Imou,504.86,False
+P0265,Hikvision 870A Lite Security Bluetooth,Security & Surveillance,Hikvision,974.11,False
+P0266,Imou 6644G Standard Security Gigabit,Security & Surveillance,Imou,425.39,False
+P0267,Dahua 6981X Lite Security 4K,Security & Surveillance,Dahua,224.56,False
+P0268,Ezviz 1431 Plus Security Wi-Fi,Security & Surveillance,Ezviz,1287.57,False
+P0269,Hikvision 9650S Pro Security PoE,Security & Surveillance,Hikvision,656.66,False
+P0270,Dahua 237 Standard Security Full HD,Security & Surveillance,Dahua,206.44,False
+P0271,Hikvision 4264X Pro Security Full HD,Security & Surveillance,Hikvision,251.74,False
+P0272,Hikvision 7930A Plus Security Gigabit,Security & Surveillance,Hikvision,1129.33,False
+P0273,Hikvision 8572A Home Security Full HD,Security & Surveillance,Hikvision,595.96,False
+P0274,Imou 7670G Lite Security 4K,Security & Surveillance,Imou,1050.11,False
+P0275,Dahua 7081 Lite Security Bluetooth,Security & Surveillance,Dahua,178.74,False
+P0276,Hikvision 7340X Lite Security,Security & Surveillance,Hikvision,771.43,False
+P0277,Dahua 6593A Advanced Security Bluetooth,Security & Surveillance,Dahua,929.25,False
+P0278,Dahua 402X Plus Security Full HD,Security & Surveillance,Dahua,413.61,False
+P0279,Imou 464X Business Security PoE,Security & Surveillance,Imou,798.9,False
+P0280,Hikvision 6982A Lite Security Bluetooth,Security & Surveillance,Hikvision,690.43,False
+P0281,Epson 9005 Advanced Printing Duplex,Printing,Epson,339.31,False
+P0282,Canon 9895X Max Printing Gigabit,Printing,Canon,896.85,False
+P0283,Epson 6471X Advanced Printing Wi-Fi,Printing,Epson,2519.13,False
+P0284,Epson 2839X Advanced Printing USB-C,Printing,Epson,1720.21,False
+P0285,Brother 3912 Home Printing Bluetooth,Printing,Brother,656.17,False
+P0286,Brother 6867S Compact Printing Duplex,Printing,Brother,702.07,False
+P0287,Brother 9452A Home Printing Duplex,Printing,Brother,202.08,False
+P0288,Epson 8759S Compact Printing Wi-Fi,Printing,Epson,1166.5,False
+P0289,Epson 217 Max Printing Bluetooth,Printing,Epson,2148.55,False
+P0290,Brother 946A Advanced Printing Wi-Fi,Printing,Brother,768.34,False
+P0291,Brother 6569X Plus Printing USB-C,Printing,Brother,526.06,False
+P0292,Canon 6383 Max Printing,Printing,Canon,296.64,False
+P0293,Brother 2017A Compact Printing USB-C,Printing,Brother,717.9,False
+P0294,Epson 109G Pro Printing Bluetooth,Printing,Epson,1040.5,False
+P0295,Epson 1719 Lite Printing PoE,Printing,Epson,769.53,False
+P0296,Brother 9410 Business Printing 4K,Printing,Brother,455.82,False
+P0297,Canon 8667A Lite Printing USB-C,Printing,Canon,839.52,False
+P0298,Brother 9544S Home Printing Gigabit,Printing,Brother,734.79,False
+P0299,Brother 2998A Plus Printing USB-C,Printing,Brother,1204.12,False
+P0300,Canon 9610A Advanced Printing Wi-Fi,Printing,Canon,915.17,False
+P0301,Canon 5242 Compact Printing,Printing,Canon,958.16,False
+P0302,Epson 3787A Lite Printing USB-C,Printing,Epson,709.6,False
+P0303,Epson 5865A Plus Printing Bluetooth,Printing,Epson,354.95,False
+P0304,Epson 8769A Pro Printing Full HD,Printing,Epson,1501.58,False
+P0305,Canon 1220G Compact Printing Gigabit,Printing,Canon,1263.82,False
+P0306,Brother 4712A Max Printing Bluetooth,Printing,Brother,499.88,False
+P0307,Brother 6128S Pro Printing Bluetooth,Printing,Brother,2770.17,False
+P0308,Epson 2471S Home Printing USB-C,Printing,Epson,479.0,False
+P0309,Canon 6998S Lite Printing 4K,Printing,Canon,326.19,False
+P0310,Canon 6266X Max Printing PoE,Printing,Canon,934.24,False
+P0311,Brother 1084 Home Printing Wi-Fi,Printing,Brother,850.12,False
+P0312,Canon 6059X Home Printing USB-C,Printing,Canon,1193.18,False
+P0313,Canon 4246G Advanced Printing Bluetooth,Printing,Canon,566.87,False
+P0314,Brother 3172A Business Printing Gigabit,Printing,Brother,609.56,False
+P0315,Epson 9624 Standard Printing Gigabit,Printing,Epson,1123.41,False
+P0316,Ugreen 8866S Advanced Networking 4K,Networking,Ugreen,128.35,False
+P0317,TP-Link 8170X Compact Networking Wi-Fi,Networking,TP-Link,288.23,False
+P0318,Huawei 2090S Plus Networking Bluetooth,Networking,Huawei,177.74,False
+P0319,Grandstream 6420G Standard Networking PoE,Networking,Grandstream,501.9,False
+P0320,Dahua 1066 Lite Networking USB-C,Networking,Dahua,337.34,False
+P0321,Dahua 4343S Advanced Networking,Networking,Dahua,86.89,False
+P0322,Ruijie 2582A Pro Networking Duplex,Networking,Ruijie,197.03,False
+P0323,Huawei 7286X Pro Networking PoE,Networking,Huawei,321.65,False
+P0324,Ugreen 5183 Lite Networking Bluetooth,Networking,Ugreen,104.7,False
+P0325,Ugreen 5026S Compact Networking 4K,Networking,Ugreen,212.91,False
+P0326,Ruijie 6405S Plus Networking 4K,Networking,Ruijie,157.8,False
+P0327,TP-Link 7743X Business Networking Duplex,Networking,TP-Link,157.62,False
+P0328,TP-Link 8619 Business Networking 4K,Networking,TP-Link,318.88,False
+P0329,Ruijie 7318 Standard Networking 4K,Networking,Ruijie,466.67,False
+P0330,Huawei 2638S Home Networking PoE,Networking,Huawei,231.37,False
+P0331,Dahua 6712X Standard Networking Bluetooth,Networking,Dahua,217.2,False
+P0332,Dahua 6952S Lite Networking Wi-Fi,Networking,Dahua,91.23,False
+P0333,Huawei 4666S Lite Networking 4K,Networking,Huawei,139.76,False
+P0334,Grandstream 7183A Advanced Networking Wi-Fi,Networking,Grandstream,317.38,False
+P0335,Dahua 2779A Compact Networking PoE,Networking,Dahua,193.31,False
+P0336,TP-Link 2673 Lite Networking 4K,Networking,TP-Link,197.18,False
+P0337,Ugreen 7468A Advanced Networking Duplex,Networking,Ugreen,102.21,False
+P0338,Hikvision 9096A Lite Networking Duplex,Networking,Hikvision,160.64,False
+P0339,Grandstream 5575 Lite Networking USB-C,Networking,Grandstream,227.24,False
+P0340,TP-Link 8141G Compact Networking Duplex,Networking,TP-Link,71.17,False
+P0341,Western Digital HDD Interne 3.5in 4TB,Data Storage,Western Digital,2154.09,False
+P0342,SanDisk NVMe M.2 SSD 256GB,Data Storage,SanDisk,1812.84,False
+P0343,Seagate NAS 2-Baies Reseau,Data Storage,Seagate,6183.32,False
+P0344,Synology NVMe M.2 SSD 2048GB,Data Storage,Synology,2061.64,False
+P0345,Seagate Carte Micro SD 256GB,Data Storage,Seagate,366.76,False
+P0346,Kingston SSD 2.5in SATA 2048GB,Data Storage,Kingston,1398.37,False
+P0347,Synology NVMe M.2 SSD 256GB,Data Storage,Synology,2217.14,False
+P0348,SanDisk HDD Interne 3.5in 1TB,Data Storage,SanDisk,1856.99,False
+P0349,Transcend HDD Interne 3.5in 2TB,Data Storage,Transcend,1223.47,False
+P0350,Transcend Carte Micro SD 32GB,Data Storage,Transcend,214.8,False
+P0351,SanDisk NVMe M.2 SSD 1024GB,Data Storage,SanDisk,866.32,False
+P0352,SanDisk HDD Interne 3.5in 4TB,Data Storage,SanDisk,2100.5,False
+P0353,Synology HDD Interne 3.5in 4TB,Data Storage,Synology,1101.78,False
+P0354,Seagate NVMe M.2 SSD 256GB,Data Storage,Seagate,1059.3,False
+P0355,Western Digital SSD 2.5in SATA 128GB,Data Storage,Western Digital,1603.95,False
+P0356,Western Digital NVMe M.2 SSD 1024GB,Data Storage,Western Digital,428.44,False
+P0357,Transcend Carte Micro SD 64GB,Data Storage,Transcend,92.99,False
+P0358,SanDisk Cle USB 3.0 64GB,Data Storage,SanDisk,296.43,False
+P0359,Western Digital Cle USB 3.0 32GB,Data Storage,Western Digital,231.81,False
+P0360,SanDisk SSD 2.5in SATA 512GB,Data Storage,SanDisk,1659.09,False
+P0361,Western Digital Cle USB 3.0 256GB,Data Storage,Western Digital,232.3,False
+P0362,Western Digital Carte Micro SD 64GB,Data Storage,Western Digital,216.62,False
+P0363,Kingston NAS 2-Baies Reseau,Data Storage,Kingston,6454.37,False
+P0364,Seagate Cle USB 3.0 32GB,Data Storage,Seagate,202.66,False
+P0365,Seagate SSD 2.5in SATA 2048GB,Data Storage,Seagate,1135.88,False
+P0366,Transcend NAS 2-Baies Reseau,Data Storage,Transcend,3245.93,False
+P0367,Western Digital NAS 2-Baies Reseau,Data Storage,Western Digital,3512.62,False
+P0368,Kingston NVMe M.2 SSD 1024GB,Data Storage,Kingston,2119.05,False
+P0369,Seagate HDD Interne 3.5in 4TB,Data Storage,Seagate,2066.39,False
+P0370,Transcend SSD 2.5in SATA 512GB,Data Storage,Transcend,1312.57,False
+P0371,Seagate Cle USB 3.0 64GB,Data Storage,Seagate,233.44,False
+P0372,SanDisk SSD 2.5in SATA 2048GB,Data Storage,SanDisk,1516.54,False
+P0373,DSPPA 8784X Lite Audio-Visual,Audio-Visual,DSPPA,1354.09,False
+P0374,Revolution Galaxy 3910A Lite Audio-Visual Duplex,Audio-Visual,Revolution Galaxy,2640.07,False
+P0375,Revolution Galaxy 8536S Max Audio-Visual,Audio-Visual,Revolution Galaxy,2531.95,False
+P0376,Revolution Galaxy 8290S Advanced Audio-Visual Gigabit,Audio-Visual,Revolution Galaxy,1814.31,False
+P0377,DSPPA 2150G Pro Audio-Visual,Audio-Visual,DSPPA,728.79,False
+P0378,Dell 7932 Lite Audio-Visual USB-C,Audio-Visual,Dell,921.11,False
+P0379,DSPPA 8156S Advanced Audio-Visual,Audio-Visual,DSPPA,2623.37,False
+P0380,Epson 7978S Home Audio-Visual Wi-Fi,Audio-Visual,Epson,1357.15,False
+P0381,Dell 5529G Home Audio-Visual Full HD,Audio-Visual,Dell,1422.71,False
+P0382,DSPPA 3945G Pro Audio-Visual 4K,Audio-Visual,DSPPA,1158.88,False
+P0383,Grandstream 2836 Compact Telephony Duplex,Telephony,Grandstream,2584.38,False
+P0384,Apple 8294A Lite Telephony,Telephony,Apple,1664.28,False
+P0385,Grandstream 4775G Home Telephony Gigabit,Telephony,Grandstream,2265.56,False
+P0386,Samsung 6981S Plus Telephony Gigabit,Telephony,Samsung,2564.13,False
+P0387,Apple 9852G Advanced Telephony PoE,Telephony,Apple,1928.1,False
+P0388,Motorola 5470G Compact Telephony PoE,Telephony,Motorola,5425.02,False
+P0389,Apple 8328S Lite Telephony Bluetooth,Telephony,Apple,3250.0,False
+P0390,Huawei 6283A Plus Telephony PoE,Telephony,Huawei,5593.55,False
+P0391,Grandstream 4411A Pro Telephony Bluetooth,Telephony,Grandstream,2577.43,False
+P0392,Huawei 4386A Advanced Telephony Gigabit,Telephony,Huawei,4286.98,False
+P0393,Motorola 656X Business Telephony USB-C,Telephony,Motorola,5623.58,False
+P0394,Apple 4098X Standard Telephony Duplex,Telephony,Apple,3012.41,False
+P0395,Motorola 5443G Lite Telephony Duplex,Telephony,Motorola,3525.28,False
+P0396,Samsung 4643G Home Telephony Wi-Fi,Telephony,Samsung,3255.66,False
+P0397,Huawei 5452X Compact Telephony 4K,Telephony,Huawei,6170.59,False
